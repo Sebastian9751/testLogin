@@ -1,5 +1,5 @@
-# testLogin
+# TestLoginReact
 
-# credentials
-  username: sebas
-  password: 1234
+## Credentials
+    username: sebas
+    password: 1234
